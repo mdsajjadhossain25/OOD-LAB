@@ -1,0 +1,7 @@
+1. Compile all Java files inside the package folder:
+
+   javac packageName/*.java
+
+2. Run the Java file containing the main method (use fully qualified class name):
+
+   java packageName.MainClass
